@@ -1,0 +1,15 @@
+.chi {
+    color: red;
+}
+/* selection by class */
+.fish  {
+color: blueviolet;
+
+}
+/* selection by id */
+#chi1{
+font-size: 2em;
+}
+.chib{
+    color: yell;
+}
